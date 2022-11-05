@@ -4,7 +4,9 @@ I'm a developer at heart, and an engineering manager by trade. I work for Micros
 
 I've used many programming languages but have fallen in love with Python.
 
-You can find me in various places. I'm `martinpeck` in most places. On Mastodon I'm <a rel="me" href="https://fosstodon.org/@martinpeck">@martinpeck@fossodon.org</a>. My [Linktree](http://linktr.ee/martinpeck) lists them all.
+You can find me in various places. I'm `martinpeck` in most places. On Mastodon I'm <a rel="me" href="https://fosstodon.org/@martinpeck">@martinpeck@fossodon.org</a>. 
+
+My [Linktree](http://linktr.ee/martinpeck) lists the rest.
 
 <!--
 **martinpeck/martinpeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
